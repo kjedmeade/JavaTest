@@ -1,0 +1,7 @@
+wf\contacts\controller\Application.class
+wf\contacts\controller\dao\AbstractContactDao.class
+wf\contacts\controller\ContactService.class
+wf\contacts\controller\dao\ContactDao$2.class
+wf\contacts\controller\dao\ContactDao$1.class
+wf\contacts\model\Contact.class
+wf\contacts\controller\dao\ContactDao.class
